@@ -2,4 +2,4 @@
  * do something
  */
 
-console.log("Hi")
+console.log('Hi')
