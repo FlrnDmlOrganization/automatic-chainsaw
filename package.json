@@ -1,0 +1,19 @@
+{
+  "name": "automatic-chainsaw",
+  "version": "1.0.0",
+  "description": "This repo is for testing purposes only. Updates are used for development of the slack-notificator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlrnDml/automatic-chainsaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlrnDml/automatic-chainsaw/issues"
+  },
+  "homepage": "https://github.com/FlrnDml/automatic-chainsaw#readme"
+}
