@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FlrnDml/automatic-chainsaw/issues"
   },
-  "homepage": "https://github.com/FlrnDml/automatic-chainsaw#readme"
+  "homepage": "https://github.com/FlrnDml/automatic-chainsaw#readme",
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
 }
